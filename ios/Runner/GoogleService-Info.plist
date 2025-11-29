@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyCtF4E8a7ROY7h863kvJQkfipG0S45iSwo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>240758500152</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>mx.edu.ittepic.proyectoFinal</string>
+	<key>PROJECT_ID</key>
+	<string>proyectofinal-d6fcd</string>
+	<key>STORAGE_BUCKET</key>
+	<string>proyectofinal-d6fcd.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:240758500152:ios:87ef353f2ca6248cba6fcd</string>
+	<key>DATABASE_URL</key>
+	<string>https://proyectofinal-d6fcd-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
